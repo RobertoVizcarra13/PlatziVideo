@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    height: 100vh;
+    flex-flow: column;
+    font-size: 16px;
+}
+.header{
+    background: gold;
+    height: 3rem;
+}
+.container{
+    background: lime;
+}
+
+.footer{
+    background: salmon;
+    height: 6rem;
+    margin-top: auto;
+}

@@ -1,0 +1,5 @@
+# eliminar las imagenes del repositorio
+*.jpg
+*.png
+*.gif
+*.mp4
